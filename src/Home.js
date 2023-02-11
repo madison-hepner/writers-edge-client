@@ -6,11 +6,13 @@ import "./Home.css"
 export const Home = () => (
     <>
         <h2 className="title">Writers Edge</h2>
-        <small>Prompt and Writing Tool</small>
+        <section className="box">
+        <small className="box">Prompt and Writing Tool</small>
 
-        <address>
+        <address className="box">
             <div>more stuff here</div>
         </address>
+        </section>
 
 
     </>

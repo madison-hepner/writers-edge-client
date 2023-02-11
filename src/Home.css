@@ -1,6 +1,20 @@
 .title {
-    width: 300px;
+    width: 32em;
+    height: 2em;
     font-size: 30pt;
+    border-radius: .7em;
     color: black;
+    font-size: 30pt;
+    background-color: hsl(27, 42%, 91%);
+    color: #894f2680 !important;
+    font-family: 'Comfortaa', cursive;
 
+}
+
+.box {
+    margin-top: -2%;
+    height: 5em;
+    padding-top: 2em;
+    width: auto;
+    background-color: rgb(249, 248, 247);
 }

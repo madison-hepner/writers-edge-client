@@ -7,10 +7,10 @@ body,
 input,
 select,
 textarea {
-  color: #404040;
+  color: #967259;
   font-size: 14px;
   line-height: 1.5;
-  background-color: whitesmoke;
+  background-color: black;
 }
 
 h1,
@@ -24,8 +24,7 @@ h6 {
 
 p {
   margin-bottom: 1.5em;
-  color: #d6fcff;
-  color: darkslateblue;
+  color:  #f1e6dd;
 }
 
 strong {
